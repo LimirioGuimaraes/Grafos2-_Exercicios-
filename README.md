@@ -23,6 +23,8 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Uso 
 Rodar o arquivo .py de cada questão e adicionar os valores no terminal
+## Outros 
+Video: https://youtu.be/bKFlgpsk4ao
 
 
 
