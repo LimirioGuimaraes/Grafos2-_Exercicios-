@@ -15,7 +15,8 @@ Temas: Grafos2
 Exercicios referendes aos algoritmos de Dijkstra e Prim
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](https://github.com/LimirioGuimaraes/Grafos2-_Exercicios-/assets/80782534/7f09f494-af7c-4ca4-8f91-58a8764cdb24)
+
 
 ## Instalação 
 **Linguagem**: Python<br>
